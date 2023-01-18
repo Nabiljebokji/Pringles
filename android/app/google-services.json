@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "621537280145",
+    "project_id": "pringles-44063",
+    "storage_bucket": "pringles-44063.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621537280145:android:20c3215928ded9091abf30",
+        "android_client_info": {
+          "package_name": "com.example.pringless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621537280145-g6i1vpetajpv183t35rgnodootvhm88g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pringless",
+            "certificate_hash": "a5213beb8ec1ec10297ded020ac72cf2274a96ce"
+          }
+        },
+        {
+          "client_id": "621537280145-lf20ehg5gptdlt5pcjfjhf5n3nt58us4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEH7RTwguvI4JhPlJtXUwmT3UqpmOHGZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621537280145-lf20ehg5gptdlt5pcjfjhf5n3nt58us4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "621537280145-bsp5l63r6qt1284ub43opfcaboeu20f0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pringless"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
